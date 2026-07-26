@@ -13,9 +13,9 @@ How it works?
 
 AR-MoS works on Termux Well that wouldn't make any sense why the hell you running a shell, inside of a shell?
 
-But However AR-MoS is currently very Lightweight since AR-MoS is currently in development
+But However AR-MoS is currently very Lightweight since AR-MoS is currently in development.
 
-Installation
+AR-MoS Installation
 
 Before downloading the latest version of AR-MoS, the requirements are:
 
