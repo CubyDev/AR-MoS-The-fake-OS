@@ -1,6 +1,3 @@
-# AR-MoS-The-fake-OS
-A technically useless fake operating system and MS-DOS parody running inside Termux on Android.
-
 Welcome to the Official repository of AR-MoS :D
 
 Thanks for entering this repository where basically I created a project that.. Technically is kinda useless.
