@@ -1,21 +1,21 @@
-Welcome to the Official repository of AR-MoS :D
+## Welcome to the Official repository of AR-MoS :D
 
 Thanks for entering this repository where basically I created a project that.. Technically is kinda useless.
 
-What is AR-MoS?
+## What is AR-MoS?
 
-AR-MoS is a fake operating system That is a parody of MS-DOS
+AR-MoS is a fake operating system That is a parody of MS-DOS which runs on Termux
 
 AR-MoS stands for:
 Android Memory operating System
 
-How it works?
+## How it works?
 
 AR-MoS works on Termux Well that wouldn't make any sense why the hell you running a shell, inside of a shell?
 
 But However AR-MoS is currently very Lightweight since AR-MoS is currently in development.
 
-AR-MoS Installation
+## AR-MoS Installation
 
 Before downloading the latest version of AR-MoS, the requirements are:
 
@@ -32,7 +32,8 @@ Then I realized that you probably didn't know how to install MS-DOS or Windows e
 
 So here we are.
 
-Step 1: Extract the ZIP file
+# Step 1: 
+Extract the ZIP file
 
 Extract the ZIP file using ZArchiver, RAR, or another file manager.
 
@@ -40,8 +41,7 @@ But please, do not extract the ZIP file from Termux.
 
 Please. 😭
 
-Step 2: Open Termux
-
+# Step 2: 
 Open Termux.
 
 Remember to install the Termux:API app from F-Droid.
@@ -58,7 +58,8 @@ If "setup.sh" is inside it, run:
 
 bash setup.sh
 
-Step 3: Provide the disk files
+# Step 3:
+Provide the disk files
 
 In older versions of AR-MoS, you had to replace the floppy disks.
 
@@ -94,7 +95,8 @@ Do not extract the ".tar.gz" file.
 
 Please. 😭
 
-Step 4: Check the installation
+# Step 4: 
+Check the installation
 
 Now check:
 
@@ -108,7 +110,8 @@ If you find it, congratulations!
 
 AR-MoS has been installed in Termux.
 
-Step 5: Start AR-MoS
+# Step 5: 
+Start AR-MoS
 
 The command used to start AR-MoS depends on the version.
 
